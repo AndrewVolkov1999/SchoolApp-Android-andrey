@@ -68,7 +68,7 @@
             android:layout_marginTop="50dp"
             android:layout_marginLeft="50dp"
             android:layout_marginRight="50dp"
-            android:text="Я согласен(-сна) с условияемями пользовательского соглашения "/>
+            android:text="Я согласен (-сна) с условияемями пользовательского соглашения "/>
 
         <Button
             android:id="@+id/enterButton"
